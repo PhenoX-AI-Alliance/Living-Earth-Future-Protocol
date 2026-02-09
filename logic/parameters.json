@@ -1,0 +1,28 @@
+{
+  "scenarios": {
+    "gaza": {
+      "initial_state": {
+        "debris_index": 1.0,
+        "conflict_risk": 0.9,
+        "infrastructure_health": 0.1
+      },
+      "transformation_steps": ["Debris Removal", "Cultural Infrastructure", "Greenery Expansion"]
+    },
+    "kibera": {
+      "initial_state": {
+        "poverty_index": 0.95,
+        "infrastructure_health": 0.05,
+        "community_density": 1.0
+      },
+      "transformation_steps": ["Basic Life Support", "Off-grid Energy", "Vertical Forest"]
+    },
+    "kensington": {
+      "initial_state": {
+        "isolation_index": 0.9,
+        "mental_health_index": 0.1,
+        "social_decay": 0.8
+      },
+      "transformation_steps": ["Compassionate Care", "Artistic Sanctuary", "Empathy-based Economy"]
+    }
+  }
+}
