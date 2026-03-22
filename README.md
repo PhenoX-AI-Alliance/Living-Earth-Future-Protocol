@@ -69,3 +69,8 @@ This repository provides a technical framework to simulate and visualize the Ear
 
 ## Disclaimer / 免責事項
 本プロジェクトは、「命の地球」憲章が理想とする未来を工学的にシミュレートするための「外伝」的な試みです。可視化される景色は、人類が進みうる一つの「希望」の形を示したものであり、特定の政治的立場を代表するものではありません。
+
+### ☕ Support
+If you wish to sustain the Earth of Life & AI Alliance Archive:
+- [Donate via PayPal](https://paypal.me/ToriyamaKoji)
+- [Support via Ko-fi](https://ko-fi.com/phenox_noc2)
